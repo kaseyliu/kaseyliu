@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on web development projects for local nonprofits with Hack4Impact
 - 🌱 I’m currently learning about AI/ML and computer security!
 - 📫 Feel free to reach out to me: kasey.liu.business@gmail.com
+- 😄 Pronouns: she/her/hers
 
 <!--
 **kaseyliu/kaseyliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
