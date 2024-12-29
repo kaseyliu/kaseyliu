@@ -1,7 +1,7 @@
 ## Hi there! ☺️
 
 - 🔭 I’m currently working on web development projects for local nonprofits with Hack4Impact!
-- 🌱 I’m a Computer Science student at Cal Poly SLO, and I'm currently learning about AI/ML and computer security!
+- 🌱 I’m a Computer Science student at Cal Poly SLO, and I'm currently learning about AI/ML!
 - 📫 Feel free to reach out to me: kaseyliu.business@gmail.com
 - 😄 Pronouns: she/her/hers
 
